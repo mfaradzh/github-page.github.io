@@ -1,3 +1,3 @@
-# github-page.github.io
+# mfaradzh.github.io
 
 ## Test githubpages
